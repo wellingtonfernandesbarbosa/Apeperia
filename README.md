@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Apeperia**
-| :label: Tecnologias | HTML, CSS
+| :label: Tecnologias | HTML, CSS3
 | :rocket: URL         | https://wellingtonfernandesbarbosa.github.io/Apeperia
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -14,4 +14,3 @@ Rápida descrição do objetivo de fazer esse projeto
 ## Detalhes do projeto
 
 Projeto desenvolvido para a prática de layouts responsivos com foco em CSS
-
